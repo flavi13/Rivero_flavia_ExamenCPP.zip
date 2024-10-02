@@ -9,3 +9,7 @@ Explicación: Un makefile es un archivo (make) que al añadirlo determina las pa
 
 3. Respuesta: b. Variables que almacenan la direccion de otra variable
 Explicación: Un puntero es una variable que almacena la ubicacion en la memoria de otras variables, por lo que es esencial en la programacion a bajo nivel.
+
+
+https://github.com/flavi13/Rivero_flavia_ExamenCPP.zip
+
